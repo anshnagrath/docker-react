@@ -6,4 +6,4 @@ before_install:
 
 
 script:
-  - docker run anshnagrath/docker-react npm run test -- -- coverage
+  - docker run anshnagrath/docker-react npm run test -- --coverage
